@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Useful overviews
 
-You can use the [editor on GitHub](https://github.com/JulienBe/onap/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[TOSCA & YANG](!http://getcloudify.org/img/TOSCAYANG.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## TOSCA
 
-### Markdown
+Stands for **T**opology and **O**rchestration **S**pecification for **C**loud **A**pplications 
+It's a **standard** that can be used to enable the **portability of cloud applications and related IT services for telecom operators**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TOSCA is a **data model** that can be used by telecom carriers for creating **templates or data descriptions of applications and infrastructure for cloud services**. 
+It can also be used to define the **relationships among these services**, as well as their **operational behavior**. 
+This can happen independently of the supplier creating the service or the technology infrastructure used to deliver it. 
+In short, TOSCA **abstracts configuration data away from specific hardware or services** to make cloud services more interoperable and portable.
+It is also being used in conjunction with other standards to deliver NFV: Notable among these is the European Telecommunications Standards Institute (ETSI) management and orchestration (MANO) architecture.
+TOSCA is one of many different cloud data models, including the Internet Engineering Task Force (IETF)’s Netconf/YANG and the TM Form’s SID
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JulienBe/onap/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

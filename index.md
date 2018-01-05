@@ -1,6 +1,6 @@
 ## Useful overviews
 
-[TOSCA & YANG](!http://getcloudify.org/img/TOSCAYANG.png)
+![TOSCA & YANG](http://getcloudify.org/img/TOSCAYANG.png)
 
 ## TOSCA
 
